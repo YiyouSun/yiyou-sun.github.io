@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
 <link rel="shortcut icon" href="favicon.ico" />
 <link rel="bookmark" href="favicon.ico" type="image/x-icon"　/>
-<title>Zhou, Xiuze (周秀泽)</title>
+<title>Yiyou Sun (孙一尤)</title>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -15,37 +15,38 @@
 <td id="layout-menu">
 <div class="menu-category">Menu</div>
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
-<div class="menu-item"><a href="https://scholar.google.com/citations?user=xTzN-qoAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a></div>
-<div class="menu-item"><a href="https://www.researchgate.net/profile/Xiuze-Zhou">ResearchGate</a></div>
+#<div class="menu-item"><a href="https://scholar.google.com/citations?user=xTzN-qoAAAAJ&hl=zh-CN&oi=ao">Google #Scholar</a></div>
+#<div class="menu-item"><a href="https://www.researchgate.net/profile/Xiuze-Zhou">ResearchGate</a></div>
 <div class="menu-item"><a href="https://github.com/XiuzeZhou">GitHub</a></div>
-<div class="menu-item"><a href="http://snailwish.com/">个人博客</a></div>
+#<div class="menu-item"><a href="http://snailwish.com/">个人博客</a></div>
+<div class="menu-item"><a href="http://snailwish.com/">LinkedIn</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Zhou, Xiuze (周秀泽) </h1>
+<h1>Yiyou Sun (孙一尤) </h1>
 </div>
 <table class="imgtable"><tr><td>
-<a href="https://xiuzezhou.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
+<a href="https://yiyou-sun.github.io/"><img src="photos/bio.jpg" alt="alt text" width="131px" height="160px" /></a>&nbsp;</td>
 <td align="left"><p>Research Scientist,<br />
 AI Research Institute,<br />
 Hithink RoyalFlush Information Network Co., Ltd. <br />
 No. 18 Tongshun Street, <br />
 Hangzhou City, China <br /> 
-E-mail: <a href="mailto:zhouxiuze@foxmail.com">zhouxiuze@foxmail.com</a></p>
+E-mail: <a href="mailto:y.sun-4@student.utwente.nl">y.sun-4@student.utwente.nl</a></p>
 </td></tr></table>
 <h2>About me</h2>
-<p>I received the B.S. degree from the Zhejiang University of Science and Technology, in 2012, and the M.S. degree from Xiamen University, in 2016. I am currently a research scientist with the AI Research Institute, Hithink RoyalFlush, China. My main research interests include Machine Learning, Deep Learning and Recommender Systems. Also, I do some research about Computer Vision, such as knee osteoarthritis prediction, and Time Series Prediction, such as remaining useful life prediction of Lithium-ion batteries. I focus on using AI to solve practical problems.</p>
+<p>I received the B.S. degree from the University of Science and Technology of China, in 2021. And I'm currently a MSC student in University of Twente majored in Computer Vision and Biometrics. My main research interests include Machine Learning, Deep Learning and Medical Image Analysis. I'm looking for the positions of research interns and assistant in fall 2022 and PhD positions in fall 2023</p>
 <h2>Research</h2>
 <p>My research interests include: </p>
 <ul>
-<li><p>Machine Learning  </p>
+<li><p>Computer Vision  </p>
 </li>
 <li><p>Deep Learning</p>
 </li>
-<li><p>Recommender Systems</p>
+<li><p>Machine Learning</p>
 </li>
-<li><p>Computer Vision</p>
-</li>
+#<li><p>Computer Vision</p>
+#</li>
 </ul>
 <h3>Current work</h3>
 <ul>
